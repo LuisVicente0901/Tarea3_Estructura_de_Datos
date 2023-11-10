@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Inversion
+comment1.params=monto\ duracion_dias\ tasa
+comment1.target=Inversion(int,\ int,\ double)
+comment2.params=
+comment2.target=Inversion()
+comment3.params=
+comment3.target=double\ ganancias()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

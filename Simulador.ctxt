@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Simulador
+comment1.params=
+comment1.target=void\ correSimulador()
+comment2.params=
+comment2.target=void\ simula()
+comment3.params=
+comment3.target=int\ asigna_tramites()
+comment4.params=
+comment4.target=void\ asigna_cliente()
+comment5.params=n
+comment5.target=void\ esperar(int)
+numComments=6
